@@ -1,1 +1,1 @@
-# starbucks-vanillaJS
+# starbucks-VanillaJS
